@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="BankConsoleApp/BankConsoleApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankConsoleApp/Business/ContaBancaria.cs">
+    <Files>
+      <File FileName="BankConsoleApp/Business/ContaBancaria.cs" Line="87" Column="2" />
+      <File FileName="BankConsoleApp/Business/ContaPremium.cs" Line="1" Column="1" />
+      <File FileName="BankConsoleApp/Applications/Program.cs" Line="1" Column="1" />
+      <File FileName="BankConsoleApp/Exception/ContaPremiumException.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

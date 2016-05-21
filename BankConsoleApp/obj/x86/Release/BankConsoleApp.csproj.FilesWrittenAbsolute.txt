@@ -1,0 +1,5 @@
+/Volumes/Macintosh HD/OneDrive/Documentos/Dev/NET/BankConsoleApp/BankConsoleApp/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/Macintosh HD/OneDrive/Documentos/Dev/NET/BankConsoleApp/BankConsoleApp/bin/Release/BankConsoleApp.exe.mdb
+/Volumes/Macintosh HD/OneDrive/Documentos/Dev/NET/BankConsoleApp/BankConsoleApp/bin/Release/BankConsoleApp.exe
+/Volumes/Macintosh HD/OneDrive/Documentos/Dev/NET/BankConsoleApp/BankConsoleApp/obj/x86/Release/BankConsoleApp.exe
+/Volumes/Macintosh HD/OneDrive/Documentos/Dev/NET/BankConsoleApp/BankConsoleApp/obj/x86/Release/BankConsoleApp.exe.mdb
